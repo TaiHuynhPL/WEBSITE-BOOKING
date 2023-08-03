@@ -1,0 +1,33 @@
+.loginregister {
+  display: flex;
+  gap: 18px;
+  color: #0071c2;
+}
+
+.loginContainer {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.login {
+  background-color: #fff;
+  padding: 4px 12px;
+  text-align: center;
+  text-decoration: none;
+  color: #0071c2;
+  cursor: pointer;
+}
+
+.register {
+  background-color: #fff;
+  padding: 4px 12px;
+  text-align: center;
+  text-decoration: none;
+  color: #0071c2;
+  cursor: pointer;
+}
+
+.name {
+  color: #fff;
+}

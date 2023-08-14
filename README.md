@@ -1,14 +1,17 @@
-WEBSITE BOOKING
+**WEBSITE BOOKING**
 
-The Web displays the booking page interface. Enables flexible search, detail page switching.
+- The reason for creating the project: The application helps users search, book rooms/hotels, make customer reservations and manage transactions conveniently.
 
-Web admin includes functions: registration, login, transactions tracking, CRUD with room, hotel and several user accounts.
+- Describe: The ClientWeb displays the reservation page interface. Includes registration and login functions. Allows searching by location, time, number of people... Switch pages flexibly. Allows tracking of transactions.
+The AdminWeb includes functions: registration, login, transactions tracking, CRUD with room, hotel and several user accounts.
 
-//Link sever:
+- Technology in use: ReactJS, CSS, Javascript, NodeJS, MongoDB, Express
+
+- Link sever:
 https://booking-server-six.vercel.app/
 
-//Link client:
+- Link client:
 https://booking-client-sigma.vercel.app/
 
-//Link admin:
+- Link admin:
 https://booking-admin-seven.vercel.app/

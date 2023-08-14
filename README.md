@@ -7,11 +7,11 @@ The AdminWeb includes functions: registration, login, transactions tracking, CRU
 
 - Technology in use: ReactJS, CSS, Javascript, NodeJS, MongoDB, Express
 
-- Link sever:
+- Link demo sever:
 https://booking-server-six.vercel.app/
 
-- Link client:
+- Link demo client:
 https://booking-client-sigma.vercel.app/
 
-- Link admin:
+- Link demo admin:
 https://booking-admin-seven.vercel.app/

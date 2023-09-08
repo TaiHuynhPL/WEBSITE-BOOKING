@@ -15,3 +15,5 @@ https://booking-client-sigma.vercel.app/
 
 - Link demo admin:
 https://booking-admin-seven.vercel.app/
+
+- Instructions to run the program on local: open terminal => run "npm install" => run "npm start"
